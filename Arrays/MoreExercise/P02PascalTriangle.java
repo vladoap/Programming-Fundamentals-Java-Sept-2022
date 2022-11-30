@@ -1,5 +1,6 @@
 package Arrays.MoreExercise;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class P02PascalTriangle {
@@ -24,7 +25,6 @@ public class P02PascalTriangle {
             System.out.println();
             lastArr = currentArr;
             }
-
         }
     }
 

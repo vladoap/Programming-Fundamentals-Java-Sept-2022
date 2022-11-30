@@ -18,7 +18,8 @@ public class P01DataTypeFinder {
                     double doubleValue = Double.parseDouble(input);
                     System.out.printf("%s is floating point type%n", input);
                 } catch (Exception b) {
-                    if (input.equals("false") || input.equals("true")) {
+
+                    if (input.toLowerCase().equals("true") || input.toLowerCase().equals("false")) {
                         System.out.printf("%s is boolean type%n", input);
                     } else if (input.length() == 1) {
                         System.out.printf("%s is character type%n", input);
