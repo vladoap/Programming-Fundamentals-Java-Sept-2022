@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d01b8a5-649c-410a-9dcf-9705e2da9677" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lists/Exercise/P01Train.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P02CenterPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Methods/MoreExercise/P02CenterPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataTypesAndVariables" />
   </component>
   <component name="RunManager" selected="Application.P01ActivationKeys (1)">
     <configuration name="P01ActivationKeys (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
